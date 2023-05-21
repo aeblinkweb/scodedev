@@ -9,3 +9,4 @@
   in der **4.-20. Zeile** dann die Beschreibung.
 
 *- Die Bilder funktion wird noch überarbeitet...*
+  *Bilder funktionieren momentan nur, wenn es ein Link ist z. B: https://aeblink.ch/Aeblinklogo.webp.
