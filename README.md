@@ -9,9 +9,9 @@
   in der **4.-20. Zeile** dann die Beschreibung.
   
 - In changelogs und neuigkeiten kann man diese Vorlage benutzen:
-[ <Datum> ]
-<Titel>
-<Text>
+[ Datum ]
+Titel
+Text
 
 ----  
 
